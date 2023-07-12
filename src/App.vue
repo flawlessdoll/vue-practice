@@ -10,7 +10,6 @@ export default {
     return {};
   },
   methods: {},
-  //test
 };
 </script>
 
